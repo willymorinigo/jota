@@ -1,0 +1,6 @@
+{
+  "name": "Jota Eventos",
+  "description": "Una landing page minimalista y elegante para un espacio de festejos de cumpleaños llamado Jota Eventos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
